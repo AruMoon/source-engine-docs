@@ -1,5 +1,5 @@
 ---
-label: Client Installation
+label: Installation
 icon: download
 order: 1000
 ---
