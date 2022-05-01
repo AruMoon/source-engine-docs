@@ -6,8 +6,6 @@ order: 1000
 
 ## Source Engine
 
-### All games
-
 All game launchers of this engine port require main Source Engine app installed on your mobile device for running. So, firstly, you should install it.
 
 [!file source-engine-v1.11.apk](https://drive.google.com/file/d/13TLJoZ4aoNeUAAsQRI_9NN5zCwzdXsNJ/view?usp=sharingchangelog)
