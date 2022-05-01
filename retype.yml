@@ -6,6 +6,8 @@ branding:
   label: v1.11
 meta:
   title: " - Source Engine on Android"
+edit:
+  repo: github.com/AruMoon/source-engine-docs
 links:
   - text: Source Code
     link: https://github.com/nillerusr/source-engine/
