@@ -40,7 +40,7 @@ The project is still in development. Please be patient with bugs and just wait f
 
 [!file source-engine-v1.11.apk](https://drive.google.com/file/d/13TLJoZ4aoNeUAAsQRI_9NN5zCwzdXsNJ/view?usp=sharingchangelog)
 
-[!ref Read more in client installation](client/installation)
+[!ref Read more in client installation](source-engine/installation)
 
 ---
 
