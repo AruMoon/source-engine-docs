@@ -1,0 +1,19 @@
+name: Publish docs to GitHub pages
+on:
+  workflow_dispatch:
+  push:
+    branches:
+    - master
+
+jobs:
+  publish:
+    name: Publish to master branch
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: retypeapp/action-build@latest
+      - uses: retypeapp/action-github-pages@latest
+        with:
+          update-branch: true

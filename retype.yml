@@ -1,0 +1,23 @@
+input: .
+output: .retype
+url: arumoon.github.io/source-engine-docs
+branding:
+  title: Source by nillerusr
+  label: v1.11
+meta:
+  title: " - Source Engine on Android"
+links:
+  - text: Source Code
+    link: https://github.com/nillerusr/source-engine/
+    icon: mark-github
+  - text: Discord
+    link: https://discord.gg/r85yNn2J2y
+    icon: feed-discussion
+  - text: Youtube
+    link: https://www.youtube.com/channel/UCHYGO4HzLjdWBUq4th8dCrQ
+    icon: video
+  - text: Donate
+    link: https://new.donatepay.ru/@nillerusr
+    icon: gift
+footer:
+  copyright: "&copy; Copyright {{ year }} – Docs written by Aru Moon – All rights reserved."
