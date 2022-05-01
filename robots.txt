@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arumoon.github.io/source-engine-docs/sitemap.xml.gz
