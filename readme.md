@@ -105,4 +105,4 @@ Please, read FAQ before asking the questions. Maybe it already has the solution 
 
 !!!
 
-[!embed width="350" height="500"](https://canary.discord.com/widget?id=672055862608658432&theme=dark")
+[!embed width="350" height="500"](https://discord.com/widget?id=672055862608658432&theme=dark")
