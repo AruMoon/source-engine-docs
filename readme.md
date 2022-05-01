@@ -74,6 +74,8 @@ The remake of Counter-Strike (2000) using the Source game engine developed by Va
 
 You can discover some mods, ported by our community in our [Discord](#support) guild
 
+[!ref Proceed to installation guide](source-engine/installation)
+
 ---
 
 ## :gift: Donation
