@@ -1,7 +1,7 @@
 ---
 label: Public servers list
 icon: list-unordered
-order: 5000
+order: 650
 ---
 
 ## Servers list
