@@ -20,7 +20,7 @@ links:
     link: https://www.youtube.com/channel/UCHYGO4HzLjdWBUq4th8dCrQ
     icon: video
   - text: Donate
-    link: https://new.donatepay.ru/@nillerusr
+    link: /source-engine-docs/#donation
     icon: gift
 footer:
   copyright: "&copy; Copyright {{ year }} – Docs written by Aru Moon – All rights reserved."
