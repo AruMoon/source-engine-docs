@@ -21,9 +21,9 @@ order: 800
 |+<console variable> <arg> - |Sets the Cvar (or console variable) to the specified setting.
 |-all_languages	|Loads all language files.|
 |-allowdebug	|Fakes a debugger for phonehome, and is the same as -dev, unless -nodev is specified.|
-|-buildcubemaps	|Builds cubemaps when fully loaded into a map, then quits the game.|
+|-buildcubemaps| Builds cubemaps when fully loaded into a map, then quits the game.|
 |-console|	Starts the game with the developer console enabled. Same as having con_enable enabled|.
-|-defaultgamedir	|Fallback directory if "-game" is not set. Default is "hl2".|
+|-defaultgamedir| Fallback directory if "-game" is not set. Default is "hl2".|
 |-demo|	Enters the game into demo mode. Only works for "hl2" and "portal"|
 |-dev	|Enables developer mode. Also disables the automatic loading of menu background maps and stops the quit dialog from appearing on exit.|
 |-edit|	According to comments, intended to replace -tools. Does nothing except disable all file logging for building reslists.|
