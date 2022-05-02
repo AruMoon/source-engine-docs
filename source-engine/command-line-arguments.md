@@ -21,7 +21,6 @@ order: 800
 |+<console variable> <arg> - |Sets the Cvar (or console variable) to the specified setting.
 |-all_languages	|Loads all language files.|
 |-allowdebug	|Fakes a debugger for phonehome, and is the same as -dev, unless -nodev is specified.|
-|-buildcubemaps| Builds cubemaps when fully loaded into a map, then quits the game.|
 |-console|	Starts the game with the developer console enabled. Same as having con_enable enabled|.
 |-defaultgamedir| Fallback directory if "-game" is not set. Default is "hl2".|
 |-demo|	Enters the game into demo mode. Only works for "hl2" and "portal"|
@@ -40,11 +39,9 @@ order: 800
 |-maxplayers|	Set the maximum players allowed to join the server. This does the same as the maxplayers convar, the maximum you can set it to is limited by the game/mod|
 |-nocrashdialog|	Stop some windows crash message boxes from showing up.
 |-nodev	|Disables -dev and -allowdebug during startup so sv_cheats and developer mode dosent get set.
-|-nodttest|	Skips datatable testing.
 |-noip|	Do not bind to an ip and disables all multiplayer support
 |-nojoy|	Disables joystick support.
 |-nomaster|	Hides server from master serverlist.
-|-nomessagebox|	Stop various windows error message boxes from showing up
 |-nominidumps|	Dont write minidumps
 |-nomouse|	Disables in-game mouse support.
 |-nosound|	Disables sound support
